@@ -4,7 +4,7 @@
 
   - [Azure Sentinel Live Cyber Attacks](https://github.com/joshmadakor1/ABURL)
 
-<h2>Certifications</h2>
+<h2>Udemy Certs</h2>
 
 
 <h2> 🤳 Connect with me:</h2>
