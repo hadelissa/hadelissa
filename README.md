@@ -5,7 +5,9 @@
   - [Azure Sentinel Live Cyber Attacks](https://github.com/hadelissa/Live-Cyber-Attacks-Lab)
 
 <h2>Udemy Certs</h2>
-
+  
+  - [Wireshark](https://www.udemy.com/certificate/UC-3c93a989-0031-4743-9dda-4f1ff758f46f/)
+  - [Splunk: Zero to Power User](https://www.udemy.com/certificate/UC-dde5053c-da43-4493-8152-998ef5c578ae/)
 
 <h2> 🤳 Connect with me:</h2>
 
