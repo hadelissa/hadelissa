@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
-  - [Azure Sentinel Live Cyber Attacks](https://github.com/joshmadakor1/ABURL)
+  - [Azure Sentinel Live Cyber Attacks]([https://github.com/joshmadakor1/ABUR](https://github.com/hadelissa/Live-Cyber-Attacks-Lab)L)
 
 <h2>Udemy Certs</h2>
 
