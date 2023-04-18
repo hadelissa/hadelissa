@@ -1,5 +1,5 @@
-<h1>Hi, I'm Hadel! 
-
+<h1>Hi, I'm Hadel! <br/>
+<a href="https://www.linkedin.com/in/hadel-issa-9b5146192/">Cybersecurity</a>
   
 <h2>👨‍💻 CyberSecurity Projects:</h2>
 
@@ -14,7 +14,7 @@
 
 [<img align="left" alt="hadelissa | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: https://www.linkedin.com/in/hadel-issa-9b5146192/
+[linkedin](https://www.linkedin.com/in/hadel-issa-9b5146192/)
 <!--
 **hadelissa/hadelissa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
